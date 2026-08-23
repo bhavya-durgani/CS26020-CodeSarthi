@@ -446,3 +446,4 @@ export const NODE_PALETTE = [
 // UI: Custom response header and status code inputs
 
 // Node Handler: HTTP Request Trigger support verified
+// Node Handler: PostgreSQL Query execution binding

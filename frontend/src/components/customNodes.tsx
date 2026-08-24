@@ -448,3 +448,4 @@ export const NODE_PALETTE = [
 // Node Handler: HTTP Request Trigger support verified
 // Node Handler: PostgreSQL Query execution binding
 // Node Handler: Custom JS Code node VM executor binding
+// Node Handler: HTTP Response payload formatter

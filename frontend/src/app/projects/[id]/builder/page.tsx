@@ -1326,3 +1326,4 @@ function NodeConfigPanel({ node, onChange }: { node: Node; onChange: (k: string,
 // AI: Sparkles animation and generation loader
 
 // Canvas: Drag-and-drop palette sidebar component registration
+// Canvas: SmoothStep flow edge connectors initialized

@@ -1324,3 +1324,5 @@ function NodeConfigPanel({ node, onChange }: { node: Node; onChange: (k: string,
 // AI: Quick-start prompt templates
 // AI: Auto-insertion of nodes into active canvas layout
 // AI: Sparkles animation and generation loader
+
+// Canvas: Drag-and-drop palette sidebar component registration

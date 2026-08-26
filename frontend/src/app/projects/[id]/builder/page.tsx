@@ -1328,3 +1328,4 @@ function NodeConfigPanel({ node, onChange }: { node: Node; onChange: (k: string,
 // Canvas: Drag-and-drop palette sidebar component registration
 // Canvas: SmoothStep flow edge connectors initialized
 // Canvas: Inspector drawer slide-out parameter editor
+// Canvas: Auto-save debounced sync with backend API

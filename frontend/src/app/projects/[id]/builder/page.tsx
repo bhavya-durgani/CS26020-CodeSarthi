@@ -1329,3 +1329,4 @@ function NodeConfigPanel({ node, onChange }: { node: Node; onChange: (k: string,
 // Canvas: SmoothStep flow edge connectors initialized
 // Canvas: Inspector drawer slide-out parameter editor
 // Canvas: Auto-save debounced sync with backend API
+// Canvas: Zoom, pan, and minimap viewport controls

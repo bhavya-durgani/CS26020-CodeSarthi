@@ -118,3 +118,4 @@ export function parameterizeSqlQuery(
 // Handler: Switch and conditional branch node resolution
 // Handler: API Key header validator step
 // Handler: JWT verification and claim extraction
+// Handler: Outbound HTTP request step

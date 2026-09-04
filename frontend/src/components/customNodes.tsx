@@ -449,3 +449,4 @@ export const NODE_PALETTE = [
 // Node Handler: PostgreSQL Query execution binding
 // Node Handler: Custom JS Code node VM executor binding
 // Node Handler: HTTP Response payload formatter
+// UI: Custom response header and status code inputs

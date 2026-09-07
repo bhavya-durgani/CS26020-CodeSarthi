@@ -661,3 +661,5 @@ export async function registerRoutes(fastify: FastifyInstance) {
 // Codegen: Target package.json generator
 // Codegen: .env.example configuration generator
 // Verification: Compiler syntax validation checks
+
+// Codegen: Fastify route generator mapping visual DAG steps

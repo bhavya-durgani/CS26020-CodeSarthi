@@ -664,3 +664,4 @@ export async function registerRoutes(fastify: FastifyInstance) {
 
 // Codegen: Fastify route generator mapping visual DAG steps
 // Codegen: Prisma ORM dynamic query builder
+// Codegen: Auth preHandler hook synthesizer

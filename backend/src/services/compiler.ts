@@ -668,3 +668,4 @@ export async function registerRoutes(fastify: FastifyInstance) {
 // Codegen: Custom inline JavaScript execution wrapper
 // Codegen: Clean server.ts entrypoint generation
 // Codegen: Standalone schema.prisma generator
+// Codegen: Dynamic OpenAPI Swagger specification

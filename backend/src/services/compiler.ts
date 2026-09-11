@@ -670,3 +670,4 @@ export async function registerRoutes(fastify: FastifyInstance) {
 // Codegen: Standalone schema.prisma generator
 // Codegen: Dynamic OpenAPI Swagger specification
 // Codegen: Dockerfile and docker-compose deployment manifests
+// Codegen: Target package.json generator

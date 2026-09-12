@@ -671,3 +671,4 @@ export async function registerRoutes(fastify: FastifyInstance) {
 // Codegen: Dynamic OpenAPI Swagger specification
 // Codegen: Dockerfile and docker-compose deployment manifests
 // Codegen: Target package.json generator
+// Codegen: .env.example configuration generator

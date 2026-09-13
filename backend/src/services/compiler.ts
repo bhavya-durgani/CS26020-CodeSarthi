@@ -672,3 +672,4 @@ export async function registerRoutes(fastify: FastifyInstance) {
 // Codegen: Dockerfile and docker-compose deployment manifests
 // Codegen: Target package.json generator
 // Codegen: .env.example configuration generator
+// Verification: Compiler syntax validation checks

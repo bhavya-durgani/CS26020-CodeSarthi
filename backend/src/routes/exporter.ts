@@ -189,3 +189,4 @@ export async function exportRoutes(fastify: FastifyInstance) {
 // Endpoint: Stream ZIP download buffer
 
 // Service: ZIP archiver integration
+// Endpoint: Stream ZIP download buffer

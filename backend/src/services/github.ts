@@ -139,3 +139,4 @@ export async function pushToGithub(
 
 // GitHub API: Repository creation helper
 // GitHub API: Git tree and commit pusher
+// GitHub API: 409 conflict resolution handling

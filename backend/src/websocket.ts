@@ -92,3 +92,4 @@ declare module "fastify" {
 
 // WebSocket: Project-scoped room subscription logic
 // WebSocket: Latency and status event broadcaster
+// WebSocket: Database query execution timings

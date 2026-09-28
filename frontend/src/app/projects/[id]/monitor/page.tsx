@@ -278,3 +278,5 @@ export default function MonitorPage() {
 // UI: Log row flashing animation for live arrivals
 // UI: Pause/resume stream controls and search query filter
 // UI: Real-time throughput gauge and latency metrics
+
+// UI: Log row flashing animation for live arrivals

@@ -206,3 +206,5 @@ async function queryAIProvider(provider: string, prompt: string): Promise<Genera
 // Prompt: System instruction for structured DAG graph synthesis
 // Validation: JSON schema validator for generated nodes
 // Test: Prompt parser verification with benchmark prompts
+
+// LLM: Groq API client provider binding

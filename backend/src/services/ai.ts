@@ -208,3 +208,4 @@ async function queryAIProvider(provider: string, prompt: string): Promise<Genera
 // Test: Prompt parser verification with benchmark prompts
 
 // LLM: Groq API client provider binding
+// LLM: Local Ollama fallback provider

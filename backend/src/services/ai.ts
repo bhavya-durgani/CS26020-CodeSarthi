@@ -209,3 +209,4 @@ async function queryAIProvider(provider: string, prompt: string): Promise<Genera
 
 // LLM: Groq API client provider binding
 // LLM: Local Ollama fallback provider
+// Prompt: System instruction for structured DAG graph synthesis

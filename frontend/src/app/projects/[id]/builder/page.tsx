@@ -1332,3 +1332,4 @@ function NodeConfigPanel({ node, onChange }: { node: Node; onChange: (k: string,
 // Canvas: Zoom, pan, and minimap viewport controls
 
 // AI: Workflow Synthesizer modal component
+// AI: Quick-start prompt templates

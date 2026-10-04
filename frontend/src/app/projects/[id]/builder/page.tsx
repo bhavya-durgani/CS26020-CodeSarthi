@@ -1333,3 +1333,4 @@ function NodeConfigPanel({ node, onChange }: { node: Node; onChange: (k: string,
 
 // AI: Workflow Synthesizer modal component
 // AI: Quick-start prompt templates
+// AI: Auto-insertion of nodes into active canvas layout

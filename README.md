@@ -35,7 +35,7 @@ CodeSarthi solves this by providing a visual, drag-and-drop builder to design AP
 ## Team & Members
 
 ### Team Members:
-- **Bhavya Durgani** (ID: `D25CS112`) — [GitHub](https://github.com/BhavyaDurgani)
+- **Bhavya Durgani** (ID: `D25CS112`) — [GitHub](https://github.com/bhavya-durgani)
 - **Vainavi Raval** (ID: `D25CS114`)
 - **Maitri Sheta** (ID: `D25CS120`)
 
@@ -76,8 +76,8 @@ CodeSarthi solves this by providing a visual, drag-and-drop builder to design AP
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Jinay-Bhatt/Backend-Api.git
-   cd Backend-Api
+   git clone https://github.com/bhavya-durgani/CS26020-CodeSarthi.git
+   cd CS26020-CodeSarthi
    ```
 
 2. **Configure Database & Environment**:
